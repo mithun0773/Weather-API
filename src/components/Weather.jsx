@@ -68,7 +68,7 @@ console.error("Error in Fetching Weather Data");
     }
   };
   useEffect(() => {
-    search("London");
+    search("Chennai");
   }, []);
   return (
     <div className="weather">
