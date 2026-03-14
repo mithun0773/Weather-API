@@ -4,7 +4,7 @@ A simple and fast **Weather App** that shows real-time weather data using a publ
 This project demonstrates **API integration, DOM updates, UI design, and JavaScript async handling**.
 
 ---
-LIVE URL:https://weather-api-port.netlify.app/
+LIVE URL:https://weather-api-port.netlify.app
 ## 🚀 Features
 
 - 🌤️ **Current Weather Information**
@@ -19,4 +19,6 @@ LIVE URL:https://weather-api-port.netlify.app/
 ## 🛠️ Tech Stack
 
 - **HTML, CSS, JavaScript**
-- **Weather API:** OpenWeatherMap API (or whichever
+- **Weather API:** OpenWeatherMap API
+
+- add separate .env file before running
